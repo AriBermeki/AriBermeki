@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari Bermeki</h1>
-<h3 align="center">A Full-Stacks Developer from and mechanical engineering student from Kurdistan(Rojava)</h3>
+<h3 align="center">A Full-Stacks Developer  and mechanical engineering student from Kurdistan(Rojava)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aribermeki&label=Profile%20views&color=0e75b6&style=flat" alt="aribermeki" /> </p>
 
