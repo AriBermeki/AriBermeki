@@ -1,3 +1,5 @@
+<p><img align="center" src="ari.jpg" alt="aribermeki" /></p>
+
 <h1 align="center">Hi 👋, I'm Ari Bermeki</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <h3 align="center">Mechanical Engineering Student at Berlin Technical University from Kurdistan (Rojava)</h3>
