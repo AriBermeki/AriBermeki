@@ -1,4 +1,4 @@
-<span><img align="center" src="ari.jpg" alt="aribermeki" /></span>
+<img align="center" src="ari.jpg" alt="aribermeki" />
 
 <h1 align="center">Hi 👋, I'm Ari Bermeki</h1>
 <h3 align="center">Full-Stack Developer</h3>
