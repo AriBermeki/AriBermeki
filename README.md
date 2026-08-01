@@ -343,6 +343,7 @@ Current Focus
 ### Rust–Python Desktop Runtime
 
 A modern application runtime combining:
+<div align="center"> 
 
 | Layer | Responsibility |
 |---|---|
@@ -361,11 +362,11 @@ The intended architecture emphasizes:
 - native desktop integration,
 - clear separation of responsibilities,
 - and long-term extensibility.
-
+</div>
 ---
 
 ## Professional Objective
-
+<div align="center"> 
 My objective is to contribute to software systems that bridge computer science and engineering.
 
 I am particularly interested in applications where software interacts with:
@@ -375,7 +376,7 @@ I am particularly interested in applications where software interacts with:
 - industrial workflows,
 - engineering data,
 - and human operators.
-
+</div>
 ---
 
 ## GitHub Statistics
@@ -412,7 +413,7 @@ I am particularly interested in applications where software interacts with:
 
 ## Contact
 
-<div align="center">
+<div align="center"> 
 
 <a href="https://github.com/aribermeki">
   <img src="https://img.shields.io/badge/GitHub-aribermeki-181717?style=for-the-badge&logo=github" alt="GitHub" />
