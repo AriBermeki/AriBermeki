@@ -340,30 +340,67 @@ Current Focus
 
 ## Selected Project Direction
 
-### Rust–Python Desktop Runtime
+```html
+<h3 align="center">Rust–Python Desktop Runtime</h3>
 
-A modern application runtime combining:
-<div align="center"> 
+<p align="center">
+  A modern application runtime combining:
+</p>
 
-| Layer | Responsibility |
-|---|---|
-| Rust | Performance, memory safety, native system access |
-| Python | Application logic, extensibility, rapid development |
-| React / Next.js / Vue.js | Modern user interfaces |
-| Native Window Layer | Window management and desktop integration |
-| Event System | Communication between frontend, backend, and runtime |
-| Engineering Layer | Integration with technical and industrial workflows |
+<div align="center">
 
-The intended architecture emphasizes:
+<table>
+  <thead>
+    <tr>
+      <th>Layer</th>
+      <th>Responsibility</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rust</td>
+      <td>Performance, memory safety, and native system access</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>Application logic, extensibility, and rapid development</td>
+    </tr>
+    <tr>
+      <td>React / Next.js / Vue.js</td>
+      <td>Modern user interfaces</td>
+    </tr>
+    <tr>
+      <td>Native Window Layer</td>
+      <td>Window management and desktop integration</td>
+    </tr>
+    <tr>
+      <td>Event System</td>
+      <td>Communication between frontend, backend, and runtime</td>
+    </tr>
+    <tr>
+      <td>Engineering Layer</td>
+      <td>Integration with technical and industrial workflows</td>
+    </tr>
+  </tbody>
+</table>
 
-- cross-platform support,
-- modular runtime design,
-- asynchronous communication,
-- native desktop integration,
-- clear separation of responsibilities,
-- and long-term extensibility.
+<p>
+  The intended architecture emphasizes:
+</p>
+
+<ul align="left">
+  <li>Cross-platform support</li>
+  <li>Modular runtime design</li>
+  <li>Asynchronous communication</li>
+  <li>Native desktop integration</li>
+  <li>Clear separation of responsibilities</li>
+  <li>Long-term extensibility</li>
+</ul>
+
 </div>
----
+
+<hr>
+```
 
 ## Professional Objective
 <div align="center"> 
