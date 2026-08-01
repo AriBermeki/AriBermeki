@@ -204,14 +204,14 @@ I am particularly interested in applications where software interacts with:
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aribermeki&theme=github_dark"
     alt="GitHub statistics"
     width="100%"
-  />](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aribermeki&theme=github_dark)
+  />]
 </td>
 <td align="center" width="50%">
 [  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aribermeki&theme=github_dark"
     alt="Repositories by language"
     width="100%"
-  />](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aribermeki&theme=github_dark)
+  />]
 </td>
 </tr>
 </table>
