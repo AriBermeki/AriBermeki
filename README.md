@@ -340,7 +340,7 @@ Current Focus
 
 ## Selected Project Direction
 
-```html
+
 <h3 align="center">Rust–Python Desktop Runtime</h3>
 
 <p align="center">
@@ -400,7 +400,7 @@ Current Focus
 </div>
 
 <hr>
-```
+
 
 ## Professional Objective
 <div align="center"> 
