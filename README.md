@@ -272,7 +272,6 @@ I combine software engineering methods with an engineering-oriented approach to 
 </tbody>
 </table>
 </div>
----
 
 ## Technology Stack
 
