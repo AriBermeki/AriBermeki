@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/images/main_anf_prof.png" width="100%" alt="Profile Header" />
+<img src="./docs/images/anf_prof.png" width="100%" alt="Profile Header" />
 
 ### Software Engineer · Mechanical Engineering Student
 
@@ -436,6 +436,6 @@ I am particularly interested in applications where software interacts with:
 
 **Building reliable software for real-world technical systems**
 
-<img src="./docs/images/main_end_prof.png" width="100%" alt="Footer" />
+<img src="./docs/images/end_prof.png" width="100%" alt="Footer" />
 
 </div>
