@@ -388,14 +388,14 @@ Current Focus
   The intended architecture emphasizes:
 </p>
 
-<ul align="left">
-  <li>Cross-platform support</li>
-  <li>Modular runtime design</li>
-  <li>Asynchronous communication</li>
-  <li>Native desktop integration</li>
-  <li>Clear separation of responsibilities</li>
-  <li>Long-term extensibility</li>
-</ul>
+<div align="center"> 
+  <p>Cross-platform support</p>
+  <p>Modular runtime design</p>
+  <p>Asynchronous communication</p>
+  <p>Native desktop integration</p>
+  <p>Clear separation of responsibipties</p>
+  <p>Long-term extensiblity</p>
+</div>
 
 </div>
 
@@ -403,17 +403,26 @@ Current Focus
 
 
 ## Professional Objective
-<div align="center"> 
+<div align="center">
+
+<p>
 My objective is to contribute to software systems that bridge computer science and engineering.
+</p>
 
+<p>
 I am particularly interested in applications where software interacts with:
+</p>
 
-- machines,
-- technical processes,
-- industrial workflows,
-- engineering data,
-- and human operators.
+  <div align="center">
+  <p>Machines</p>
+  <p>Technical processes</p>
+  <p>Industrial workflows</p>
+  <p>Engineering data</p>
+  <p>Human operators</p>
 </div>
+
+</div>
+
 ---
 
 ## GitHub Statistics
