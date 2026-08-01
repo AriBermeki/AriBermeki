@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ari%20Bermeki&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20%C3%97%20Mechanical%20Engineering&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Profile Header" />
+<img src="./docs/images/main_anf_prof.png" width="100%" alt="Profile Header" />
 
 ### Software Engineer · Mechanical Engineering Student
 
@@ -436,6 +436,6 @@ I am particularly interested in applications where software interacts with:
 
 **Building reliable software for real-world technical systems**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer" />
+<img src="./docs/images/main_end_prof.png" width="100%" alt="Footer" />
 
 </div>
