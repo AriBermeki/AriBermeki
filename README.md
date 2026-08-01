@@ -72,19 +72,205 @@ I combine software engineering methods with an engineering-oriented approach to 
 </table>
 
 ---
+<div align="center">
 
-## Technical Competence Matrix
+# TECHNICAL COMPETENCE MATRIX
 
-| Domain | Technologies | Level of Focus |
-|---|---|---|
-| Systems Programming | Rust | Primary |
-| Backend Development | Python, FastAPI | Primary |
-| Frontend Development | React, Next.js | Primary |
-| Additional Frontend | Vue.js | Basic |
-| Web Technologies | HTML, CSS, JavaScript, TypeScript | Applied |
-| Architecture | Event-driven systems, modular design, runtime architecture | Primary |
-| Tooling | Git, Docker, VS Code | Applied |
-| Operating Systems | Windows, Linux | Applied |
+*A structured overview of my technical domains, technologies, and level of focus.*
+
+</div>
+
+---
+
+<table>
+<thead>
+<tr>
+<th align="left">DOMAIN</th>
+<th align="left">TECHNOLOGIES</th>
+<th align="left">LEVEL OF FOCUS</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td valign="middle">
+
+### ⚙️ Systems Programming
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=rust" width="42" alt="Rust" />
+
+**Rust**
+
+</td>
+<td valign="middle">
+
+**Primary**
+
+<img src="https://progress-bar.dev/92/?width=300&title=Primary&color=0D6EFD" alt="Primary focus" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### 🗄️ Backend Development
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" width="88" alt="Python and FastAPI" />
+
+**Python · FastAPI**
+
+</td>
+<td valign="middle">
+
+**Primary**
+
+<img src="https://progress-bar.dev/90/?width=300&title=Primary&color=0D6EFD" alt="Primary focus" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### 🖥️ Frontend Development
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" width="88" alt="React and Next.js" />
+
+**React · Next.js**
+
+</td>
+<td valign="middle">
+
+**Primary**
+
+<img src="https://progress-bar.dev/86/?width=300&title=Primary&color=0D6EFD" alt="Primary focus" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### 🧩 Additional Frontend
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=vue" width="42" alt="Vue.js" />
+
+**Vue.js**
+
+</td>
+<td valign="middle">
+
+**Basic**
+
+<img src="https://progress-bar.dev/52/?width=300&title=Basic&color=00BCD4" alt="Basic focus" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### 🌐 Web Technologies
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" width="176" alt="HTML, CSS, JavaScript and TypeScript" />
+
+**HTML · CSS · JavaScript · TypeScript**
+
+</td>
+<td valign="middle">
+
+**Applied**
+
+<img src="https://progress-bar.dev/78/?width=300&title=Applied&color=8B5CF6" alt="Applied focus" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### 🧱 Architecture
+
+</td>
+<td valign="middle">
+
+**Event-driven systems**  
+**Modular design**  
+**Runtime architecture**
+
+</td>
+<td valign="middle">
+
+**Primary**
+
+<img src="https://progress-bar.dev/88/?width=300&title=Primary&color=0D6EFD" alt="Primary focus" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### 🔧 Tooling
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=git,docker,vscode" width="132" alt="Git, Docker and VS Code" />
+
+**Git · Docker · VS Code**
+
+</td>
+<td valign="middle">
+
+**Applied**
+
+<img src="https://progress-bar.dev/76/?width=300&title=Applied&color=8B5CF6" alt="Applied focus" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="middle">
+
+### 💻 Operating Systems
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=windows,linux" width="88" alt="Windows and Linux" />
+
+**Windows · Linux**
+
+</td>
+<td valign="middle">
+
+**Applied**
+
+<img src="https://progress-bar.dev/68/?width=300&title=Applied&color=8B5CF6" alt="Applied focus" />
+
+</td>
+</tr>
+
+</tbody>
+</table>
 
 ---
 
