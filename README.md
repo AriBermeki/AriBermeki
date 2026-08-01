@@ -81,7 +81,7 @@ I combine software engineering methods with an engineering-oriented approach to 
 </div>
 
 ---
-
+<div align="center">
 <table>
 <thead>
 <tr>
@@ -271,7 +271,7 @@ I combine software engineering methods with an engineering-oriented approach to 
 
 </tbody>
 </table>
-
+</div>
 ---
 
 ## Technology Stack
