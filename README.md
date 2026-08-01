@@ -197,13 +197,29 @@ I am particularly interested in applications where software interacts with:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aribermeki&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics" />
+<table>
+<tr>
+<td align="center" width="50%">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aribermeki&theme=github_dark"
+    alt="GitHub statistics"
+    width="100%"
+  />
+</td>
+<td align="center" width="50%">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aribermeki&theme=github_dark"
+    alt="Repositories by language"
+    width="100%"
+  />
+</td>
+</tr>
+</table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribermeki&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most Used Languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aribermeki&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+<img
+  src="https://streak-stats.demolab.com?user=aribermeki&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
